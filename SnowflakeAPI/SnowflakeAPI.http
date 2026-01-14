@@ -1,0 +1,6 @@
+@SnowflakeAPI_HostAddress = http://localhost:5217
+
+GET {{SnowflakeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
